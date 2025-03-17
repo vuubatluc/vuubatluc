@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vuubatluc
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently learning 
 - 😄 Pronouns: he/him
 
 
